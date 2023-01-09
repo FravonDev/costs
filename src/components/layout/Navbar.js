@@ -15,13 +15,13 @@ function Navbar() {
             <NavLink to="/"> Home</NavLink>
           </li>
           <li className={styles.item}>
-            <NavLink to="/company">Company</NavLink>
+            <NavLink to="/company">empresa</NavLink>
           </li>
           <li className={styles.item}>
-            <NavLink to="/contato">Contact</NavLink>
+            <NavLink to="/contact">Contato</NavLink>
           </li>
           <li className={styles.item}>
-            <NavLink to="/newproject">New project</NavLink>
+            <NavLink to="/projects">Projetos</NavLink>
           </li>
         </ul>
       </Container>
