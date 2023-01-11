@@ -1,80 +1,6 @@
 {
   "projects": [
-    {
-      "": "test",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "": "test",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "": "test",
-      "cost": 0,
-      "services": [],
-      "budget": "7",
-      "id": 3
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "": "dasdas",
-      "budget": "34",
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "": "Porffolio",
-      "budget": "10000",
-      "category": {
-        "id": "UI/UX Design",
-        "name": "UI/UX Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 14
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 15
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 16
-    }
+   
   ],
   "categories": [
     {
@@ -87,7 +13,7 @@
     },
     {
       "id": 3,
-      "name": "UI/UX Design"
+      "name": "Design"
     },
     {
       "id": 4,
