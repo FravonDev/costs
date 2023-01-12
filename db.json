@@ -1,6 +1,16 @@
 {
   "projects": [
-   
+    {
+      "name": "c-moon",
+      "budget": "89",
+      "category": {
+        "id": "Infra",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
   ],
   "categories": [
     {
